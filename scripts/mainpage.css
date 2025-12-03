@@ -1,0 +1,59 @@
+.top_bar {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(123, 224, 103)
+}
+
+.top_bar_title {
+    margin: 0;
+}
+
+body {
+    animation: infinitemii 15s linear infinite;
+    background-size: 800px 800px;
+    background: repeat;
+}
+
+@keyframes infinitemii {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 1000px 1000px;
+    }
+}
+
+.page1 {
+    background-color: rgb(123, 224, 103);
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-right: 250px ;
+    padding-left: 15px; padding-right: 15px;
+    padding-bottom: 1px;
+}
+
+.page2 {
+    background-color: rgb(123, 224, 103);
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px ;
+    padding-left: 15px; padding-right: 15px;
+    padding-bottom: 1px;
+}
+
+.page3 {
+    background-color: rgb(123, 224, 103);
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px ;
+    padding-left: 15px; padding-right: 15px;
+    padding-bottom: 1px;
+    margin-bottom: 200px;
+}
+
+.pictext {
+    font-size: 24px;
+}
+
+.imageflex { display: flex; align-self: center; margin-left: 38%;}
+.imageflexcontent { margin-left: 5px; margin-top: 0; margin-bottom: 0;align-self: center;}
