@@ -1,0 +1,33 @@
+body {
+    margin: 0; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
+
+.topbar {
+    background-color: rgb(94, 248, 107);
+    width: 100%;
+    font-size: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: fixed;
+}
+
+.links {
+    margin-left: 55px;
+    color: rgb(14, 37, 16);
+    text-decoration: none;
+}
+
+.textbox {
+    background-color: rgb(94, 248, 107);
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size: 22px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding-left: 15px; padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
