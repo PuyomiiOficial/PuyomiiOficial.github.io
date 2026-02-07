@@ -1,0 +1,7 @@
+the update log date is set to the moment i posted the changes.
+the date is in DD/MM/YYYY format
+the time is in the 12 hours format
+the timezone is set to the brazilian time
+
+07/02/2026 - 6:56PM - UTC-3
+created the update-log
