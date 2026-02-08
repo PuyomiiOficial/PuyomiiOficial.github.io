@@ -1,7 +1,2 @@
-o horario e data das atualizações são marcadas de acordo com a data que foram publicadas
-a data esta no formato tradicional do brasil
-o horario esta no formato de 12 horas
-o fuso-horario esta no fuso-horario de brasilia
-
-07/02/2026 - 6:54PM - UTC-3
+07/02/2026
 notas de atualizações criada
